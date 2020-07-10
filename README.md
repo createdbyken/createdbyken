@@ -1,8 +1,6 @@
-### Hi there 👋
+## Hola! Soy Ken 🙌🏻
 
-<!--
-**mau5ken/mau5ken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Soy un Fullstack developer y vivo en la Ciudad de México. Empecé a programar cuando tenía 15 años, recuerdo que mi primer lenguaje programación fue Python, la verdad no entendía mucho pero me encantaba hacer loops y escribir cualquier cosa que se me ocurría.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
