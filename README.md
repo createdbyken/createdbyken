@@ -1,14 +1,14 @@
-## Hola! Soy Ken 🙌🏻
+## Hola! Soy Ken 🙌🏻 
+Soy un Ruby on Rails 💎 Developer con mas de 3 años de experiencia.
 
-Soy un Fullstack developer y vivo en la Ciudad de México. Empecé a programar cuando tenía 15 años, recuerdo que mi primer lenguaje programación fue Python, la verdad no entendía mucho pero me encantaba hacer loops y escribir cualquier cosa que se me ocurría.
-Here are some ideas to get you started:
+## <_ Frontend
+A lo largo de mi carrera he usado tecnologías como: HTML5, CSS3, JavaScript, React, SASS y Stimulus.Js, de forma general en el desarrollo de proyectos con empresas & startups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <_ Backend
+Mi pasión por el backend comenzó a inicios de mis primeros años como developer.
+
+- 🔭 Actualmente trabajo en Kingtide, uno de los mejores empleos que he tenido en donde he aprendido muchisímo.
+- 🌱 Estoy aprendiendo Kubernetes con Python y Ruby. (Me fascina DevOps)
+- 👯 Me encanta colaborar en proyectos de Backend y Bases de Datos. 🗄
+- 📫 How to reach me:
+- 💻Puedes visitar mi sitio web para mas detalles sobre mi: https://mau5ken.github.io/ken/
