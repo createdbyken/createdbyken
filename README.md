@@ -3,7 +3,7 @@
 ## Hola! Soy Ken 🙌🏻 
 Soy un Ruby on Rails 💎 Developer con mas de 3 años de experiencia.
 
-- 🔭  Actualmente trabajo en <a target="_blank" href="https://kingtide.la">Kingtide</a>, uno de los mejores empleos que he tenido en donde he aprendido muchisímo.
+- 🔭  Actualmente trabajo en <a href="https://kingtide.la" target="_blank">Kingtide</a>, uno de los mejores empleos que he tenido en donde he aprendido muchisímo.
 - 🌱  Estoy aprendiendo Kubernetes con Python y Ruby. (Me fascina DevOps)
 - 🗄  Me encanta colaborar en proyectos de Backend y Bases de Datos.
 - 💻  Puedes visitar mi sitio web para mas detalles sobre mi: https://mau5ken.github.io/ken/
