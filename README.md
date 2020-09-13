@@ -1,5 +1,3 @@
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/us3rGuy?style=social"> &ensp; <img alt="GitHub followers" src="https://img.shields.io/github/followers/mau5ken?style=social">
-
 ## Hola! Soy Ken 🙌🏻 
 Soy un Ruby on Rails 💎 Developer con mas de 3 años de experiencia.
 
