@@ -6,4 +6,4 @@ Mi pasión por el backend comenzó a inicios de mis primeros años como develope
 
 
 ## <_ Frontend
-A lo largo de mi carrera he usado tecnologías como: HTML5, CSS3, JavaScript, React, SASS y Stimulus.Js, de forma general en el desarrollo de proyectos con empresas & startups.
+A lo largo de mi carrera he usado estas tecnologías de forma general en el desarrollo de proyectos con empresas. Complementar estas tecnologías con el modelo Backend me ha ayudado a tener habilidades más sólidas. He usado tecnologías como: HTML5, CSS3, JavaScript, React, SASS y Stimulus.Js, de forma general en el desarrollo de proyectos con empresas & startups.
