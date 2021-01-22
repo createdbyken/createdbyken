@@ -1,5 +1,5 @@
-## Hola! Soy Ken 🙌🏻 
-Soy un Ruby on Rails 💎 Developer con mas de 3 años de experiencia.
+## ✌🏼 ¡Hola! Soy Ken,
+soy un Fullstack developer y actualmente trabajo @kingtide 🌊. Empecé a programar cuando tenía 15 años, recuerdo que mi primer lenguaje de programación fue Ruby 💎 y posteriormente python 🐍. Tengo 23 años, soy Méxicano 🇲🇽 y vivo en Tepoztlán, Morelos ⛰. Mi pasión es ayudar a starups a crear plataformas web escalables y arquitectura solidas. ⛵️
 
 - 🔭  Actualmente trabajo en <a target="_blank" href="https://kingtide.la" target="_blank">Kingtide</a>, uno de los mejores empleos que he tenido en donde he aprendido muchisímo.
 - 🌱  Estoy aprendiendo Kubernetes con Python y Ruby. (Me fascina DevOps)
