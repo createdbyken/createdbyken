@@ -25,7 +25,3 @@ I am a Fullstack developer and I started programming 💻 when I was 15 years ol
 <p>
   <img src="https://komarev.com/ghpvc/?username=createdbyken&label=Profile%20views&color=0e75b6&style=flat" alt="createdbyken" />
 </p>
-
-### Want to support? You can buy me a coffee! ☕️
-
-<a href="https://www.buymeacoffee.com/5qKiMrbdl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 60px !important;" ></a>
