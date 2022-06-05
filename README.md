@@ -8,7 +8,7 @@
 
 I am a Fullstack developer and I started programming 💻 when I was 15 years old. I am 24 years old, born Mexican 🇲🇽 and I live in Tepoztlán, Morelos ⛰. My passion is helping startups create scalable web platforms and strong architectures. ⛵️
 
-- 👨🏻‍💻 I’m currently working [@kingtide](https://kingtide.com);
+- 👨🏻‍💻 I’m currently working on personal projects and mentoring;
 - 🚀 My interest right now is DevOps and Serverless web apps;
 - 💬 Let's share opinions on Twitter! [@createdbyken](https://twitter.com/createdbyken);
 - 📝 I regulary write articles on [Medium](https://medium.com/@kensanchez16);
