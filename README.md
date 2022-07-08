@@ -6,7 +6,7 @@
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-64D160?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/2z6lv0yzjfgbrk7vmtbyrbth5)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@kensanchez16/)
 
-I am a Fullstack developer and I started programming 💻 when I was 15 years old. I am 24 years old, born Mexican 🇲🇽 and I live in Tepoztlán, Morelos ⛰. My passion is helping startups create scalable web platforms and strong architectures. ⛵️
+I am a Fullstack developer and I started programming 💻 when I was 15 years old. I am 25 years old, born Mexican 🇲🇽 and I live in Tepoztlán, Morelos ⛰. My passion is helping startups create scalable web platforms and strong architectures. ⛵️
 
 - 👨🏻‍💻 I’m currently working on personal projects and mentoring;
 - 🚀 My interest right now is DevOps and Serverless web apps;
