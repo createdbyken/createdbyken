@@ -18,6 +18,7 @@ I am a Fullstack developer and I started programming 💻 when I was 15 years ol
 
 📈 **My GitHub Stats:**
 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=createdbyken&theme=city-lights&hide_border=true)](https://git.io/streak-stats)
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=createdbyken&show_icons=true&theme=tokyonight&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=createdbyken&exclude_repo=KNN-Image-Classification&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
