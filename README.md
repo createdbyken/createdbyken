@@ -12,7 +12,7 @@ I am a Fullstack developer and I started programming 💻 when I was 15 years ol
 - 🚀 My interest right now is DevOps and Serverless web apps.
 - 💬 Let's share opinions on Twitter! [@createdbyken](https://twitter.com/createdbyken).
 - 📫 Send me an email: [me@kensanchez.dev](mailto:me@kensanchez.dev).
-- 📝 Get my resume here 👉🏻: [Resume](https://res.cloudinary.com/craftwebs/image/upload/v1704639388/KenSanchez_dCV_wp4knu.pdf).
+
 
 
 📈 **My GitHub Stats:**
