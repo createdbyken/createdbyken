@@ -11,8 +11,8 @@ I am a Fullstack developer and I started programming 💻 when I was 15 years ol
 
 - 👨🏻‍💻 I’m currently working with great companies helping them scaling and creating Ruby on Rails API/apps
 - 💬 Let's share opinions on Twitter! [@createdbyken](https://twitter.com/createdbyken).
-- 📫 Send me an email: [me@kensanchez.dev](mailto:me@kensanchez.dev).
 - 📷 I also do photography, see my profile in [unsplash](https://unsplash.com/es/@createdbyken) or [instagram](https://www.instagram.com/createdby.ken/).
+- 📰 Want a good read? I write frecuently write on medium English and Spanish! [New post](https://medium.com/@kensanchez16/)
 
 
 
