@@ -10,9 +10,9 @@
 I am a Fullstack developer and I started programming 💻 when I was 15 years old. I am 25 years old, born Mexican 🇲🇽 and I live in Tepoztlán, Morelos ⛰. My passion is helping startups create scalable web platforms and strong architectures. ⛵️
 
 - 👨🏻‍💻 I’m currently working with great companies helping them scaling and creating Ruby on Rails API/apps
-- 🚀 My interest right now is DevOps and Serverless web apps.
 - 💬 Let's share opinions on Twitter! [@createdbyken](https://twitter.com/createdbyken).
 - 📫 Send me an email: [me@kensanchez.dev](mailto:me@kensanchez.dev).
+- 📷 I also do photography, see my profile in [unsplash](https://unsplash.com/es/@createdbyken) or [instagram](https://www.instagram.com/createdby.ken/).
 
 
 
