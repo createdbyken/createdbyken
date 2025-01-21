@@ -20,7 +20,6 @@ I am a Ruby developer 💻 and self-taught DevOps engineer with nearly 10 years 
 
 📈 **My GitHub Stats:**
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=createdbyken&theme=city-lights&hide_border=true)](https://git.io/streak-stats)
 <p>
   <img src="https://komarev.com/ghpvc/?username=createdbyken&label=Profile%20views&color=0e75b6&style=flat" alt="createdbyken" />
 </p>
